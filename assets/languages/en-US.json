@@ -1,0 +1,34 @@
+{
+  "app_name": "Pets",
+
+  "birds": "Bird",
+  "cats": "Cat",
+  "chameleons": "Chameleon",
+  "cows": "Cow",
+  "dogs": "Dog",
+  "monkeys": "Monkey",
+  "penguins": "Penguin",
+  "pigs": "Pig",
+  "rats": "Rat",
+  "snakes": "Snake",
+  "squirrels": "Squirrel",
+
+  "birds_desc": "Birds are warm-blooded, egg-laying animals that have vertebrae, or a backbone. ",
+  "cats_desc": "Cats, are small, carnivorous (meat-eating) mammals, of the family Felidae.",
+  "chameleons_desc": "Chameleons  are a distinctive and highly specialized clade of Old World lizards with 202 species.",
+  "cows_desc": "Cows are large grazing animals with two-toed or cloven hooves and a four-chambered stomach.",
+  "dogs_desc": "Dogs are domesticated mammals, not natural wild animals. They were originally bred from wolves.",
+  "monkeys_desc": "Monkeys are tree-dwelling simians and they are intelligent, social animals.",
+  "penguins_desc": "A penguin has a large head, short neck, and elongated body. The tail is short, and wedge-shaped.",
+  "pigs_desc": "Pigs are stout-bodied, short-legged, with thick skin usually sparsely coated with short bristles.",
+  "rats_desc": "The rat is a medium-sized rodent. Rats are omnivores, they eat lots of different types of food.",
+  "snakes_desc": "Snakes are limbless reptiles with long, cylindrical bodies, lidless eyes, and a forked tongue. ",
+  "squirrels_desc": "Squirrels typically have slender bodies with bushy tails and large eyes.",
+
+  "count": {
+    "zero": "No {}",
+    "one": "A {}",
+    "many": "{num} {}s",
+    "other": "{num} {}s"
+  }
+}

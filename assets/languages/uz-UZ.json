@@ -1,0 +1,34 @@
+{
+  "app_name": "Uy hayvonlari",
+
+  "birds": "Qush",
+  "cats": "Mushuk",
+  "chameleons":  "Xameleyon",
+  "cows": "Sigir",
+  "dogs":  "It",
+  "monkeys": "Maymun",
+  "penguins":  "Pingvin",
+  "pigs": "Cho'chqa",
+  "rats":  "Kalamush",
+  "snakes": "Ilon",
+  "squirrels":  "Sincap",
+
+  "birds_desc": "Qushlar issiq qonli, tuxum qo'yuvchi hayvonlar bo'lib, umurtqali yoki umurtqali.",
+  "cats_desc": "Mushuklar Felidae oilasiga mansub, mayda, go'shtxo'r (go'sht yeyuvchi) sutemizuvchilardir.",
+  "chameleons_desc": "Xameleyonlar qadimgi dunyo kaltakesaklarining o'ziga xos va yuqori ixtisoslashgan turkumi bo'lib, 202 turga ega.",
+  "cows_desc": "Sigirlar ikki barmoqli yoki tuyoqli, oshqozoni to'rt kamerali bo'lgan yirik boqiladigan hayvonlardir.",
+  "dogs_desc": "Itlar tabiiy yovvoyi hayvonlar emas, balki xonakilashtirilgan sutemizuvchilardir. Ular dastlab bo'rilardan o'stirilgan.",
+  "monkeys_desc": "Maymunlar daraxtda yashovchi simianlar bo'lib, ular aqlli, ijtimoiy hayvonlardir.",
+  "penguins_desc": "Pingvinning boshi katta, bo'yni qisqa va tanasi cho'zilgan. Dumi qisqa, xanjar shaklida.",
+  "pigs_desc": "Cho'chqalar qalin tanali, kalta oyoqli, qalin teriga ega, odatda qisqa tuklar bilan siyrak qoplangan.",
+  "rats_desc": "Sichqoncha o'rta bo'yli kemiruvchilardir. Kalamushlar hamma narsani yeydigan hayvonlardir, ular turli xil ovqatlarni iste'mol qiladilar.",
+  "snakes_desc": "Ilonlar uzun, silindrsimon tanali, qovoqsiz ko'zli va vilkali tilli oyoqsiz sudraluvchilardir.",
+  "squirrels_desc": "Sincaplar odatda buta dumlari va katta ko'zlari bo'lgan nozik tanaga ega.",
+
+  "count": {
+    "zero": "{} yo'q",
+    "one": "Bitta {}",
+    "many": "{num} {}",
+    "other": "{num} {}"
+  }
+}
